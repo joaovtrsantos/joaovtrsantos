@@ -1,57 +1,51 @@
-# Hi there 👋 I'm João Vitor
+# 👋 Hi, I'm João Vitor
 
-I'm a Brazilian software developer with over 5 years of experience crafting scalable backend systems using .NET technologies. I've also worked abroad through a consultancy and I'm currently focused on cross-platform development with Flutter and cloud computing on AWS.
+I'm a Brazilian software developer with 5+ years of experience building scalable backend systems using .NET. I’ve worked abroad through a consultancy and currently focus on cross-platform development with Flutter and cloud computing with AWS.
 
-I’m passionate about writing clean, maintainable code and following solid architectural principles to build software that lasts.
+I'm passionate about writing clean, maintainable code and applying solid principles to build software that lasts.
 
-## 🔧 Tech Stack
+---
 
-- 💻 Backend: .NET Core, C#, ASP.NET Core, Entity Framework Core
-- 🛢️ Databases: SQL Server, PostgreSQL, MySQL, Oracle
-- 📱 Mobile: Flutter (cross-platform development)
-- 🌐 Frontend: Angular
-- ☁️ Cloud: AWS (currently preparing for the Cloud Practitioner Certification)
-- ⚙️ DevOps & Tools: Git, GitHub Actions
+## 🧰 Tech Stack
 
-## 📐 Development Principles
+![.NET](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-- SOLID principles
-- Clean Code
-- TDD (Test-Driven Development)
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- Microservices architecture
+---
 
-## 🚀 Projects
+## 🧠 Development Principles
 
-Some of my favorite and recent work:
+- 🧱 **SOLID**
+- 🧼 **Clean Code**
+- ✅ **TDD (Test-Driven Development)**
+- 🧩 **Clean Architecture**
+- 🧭 **Domain-Driven Design (DDD)**
+- 🛰 **Microservices**
 
-- [CopaoAPI](https://github.com/joaovtrsantos/CopaoAPI): Tournament management API with clean architecture, CQRS, JWT, and Docker.
-- [TripRoute](https://github.com/joaovtrsantos/TripRoute-): Route optimization system with custom algorithms and layered architecture.
-- [curso_flutter](https://github.com/joaovtrsantos/curso_flutter): My journey learning Flutter with practical app development.
+---
 
-## 🌍 Looking For
+## 🚀 Featured Projects
 
-I’m aiming to join an international remote team (preferably with USD compensation), where I can contribute with my experience and keep evolving in a collaborative, global environment.
+- [`CopaoAPI`](https://github.com/joaovtrsantos/CopaoAPI): Tournament management API using .NET Core, CQRS, JWT, Docker.
+- [`TripRoute`](https://github.com/joaovtrsantos/TripRoute-): Route optimization logic with clean architecture and problem-solving.
+- [`curso_flutter`](https://github.com/joaovtrsantos/curso_flutter): Practical Flutter exercises and learning path.
 
-## 📫 Get in Touch
+---
 
-- [LinkedIn](https://www.linkedin.com/in/joaovtrsantos)
-- [Email](mailto:dev.joaovitor1@gmail.com)
+## 🌍 I'm Looking For
 
-Thanks for visiting! Feel free to check out my work and reach out 🤝
+A remote position (USD-based preferred) where I can collaborate with international teams, apply my skills, and grow continuously.
 
-<!--
-**joaovtrsantos/joaovtrsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📬 Get in Touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-João_Vitor_Santos-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovtrsantos)
+[![Gmail](https://img.shields.io/badge/-joaovtrsantos.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaovtrsantos.dev@gmail.com)
